@@ -1,0 +1,29 @@
+Título: Galaxia compacta 
+Año: 2023
+Autor: Nahuel Racciatti
+Descripción: La idea en esta obra es hacer una representación gráfica y simple de una galaxia, dando una sensación de 
+infinita profundidad, y de una libertad ambigua, es por ello que se eligió el uso del cuadrado delimita al espacio 
+infinito dando así a una especie de paradoja en donde aún el campo con mayor libertad debe verse confinado para poder 
+subsistir. El uso de puntos que aparecen y desaparecen de forma aleatoria, da la sensación de que hay algo, pero no 
+permanece el tiempo suficiente como para que uno sea capaz de captar la información necesaria de ello, al mismo tiempo 
+que da una ilusión de vida. La rotación aplicada a los cuadrados, también da esa ilusión de que algo tiene vida por sí 
+mismo, a su vez que denota la capacidad de los límites de ser maleables en sí mismos, por más rígidos que estos sean, y 
+por último el parpadeo aleatorio se utiliza en pos de alterar aquel ecosistema equilibrado que existe en ese limitado 
+infinito, en donde cualquier cambio mínimo puede denotar en una variación a gran escala de las reglas por las que se rige.
+
+El trabajo fue inspirado en las obras de Vera Molnár, se utiliza la figura del cuadrado la cual se va oscureciendo al 
+mismo tiempo que reducen su tamaño y grosor con respecto al otro, en el fondo se observan una serie de puntos que 
+aparecen y desaparecen por la iteración del bucle for. Se utiliza una propiedad para girar los cuadrados rápidamente si 
+el usuario aprieta la tecla izquierda del teclado, se utiliza otra función para cambiar el color de fondo de forma 
+aleatorio si el usuario aprieta el click izquierdo del mouse.
+“La figura del artista vive en tiempo prestado. Nutrida por fantasías e imaginarios pertenecientes a otros ordenamientos 
+antropológicos, el conjunto de distanciamientos e inclusiones que prefiguran su lugar social, asignándole una cierta 
+cuota restante de poder totémico, ya no hace al caso. Quienquiera se sitúe hoy por hoy bajo advocación semejantes cae de 
+lleno o en la ingenuidad más culpable o en el cinismo más hipócrita” [- VALÉRY, Paul. ([1960], 1999). La conquista de la 
+ubicuidad (1928). En Piezas sobre arte. Madrid: Visor P.131] 
+“Es cierto que de esas ideas queda algún objeto, expuesto o que puede exponerse; pero estos objetos no tienen por qué 
+estar hechos o firmados por el artista para moverse en el mundo del arte, mientras que si necesitan venir acompañados de 
+explicaciones, declaraciones o instrucciones dadas por él.(…) Se entiende entonces porque la noción de arte conceptual se 
+confunde a menudo con la de arte minimalista. Ambos anteponen la idea a la forma en el binomio legalmente establecido 
+entre ‘forma’ e ‘idea’” [- HEINICH, Nathalie. ([2014], 2017). “La obra más allá del objeto” en El paradigma del arte 
+contemporáneo: estructuras de una revolución artística Madrid: Casimiro p.101]
